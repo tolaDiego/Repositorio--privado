@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619811369 source:d:\xxx\ecuacion\main.cpp
+	<iostream>
+	<math.h>
+
