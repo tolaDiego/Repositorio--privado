@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1635386771 source:e:\escritorio\tp1.2ayed2021\tp22\tp2\main.cpp
-	<stdio.h>
-	<iostream>
-	<conio.h>
-	<cstring>
-	<stdlib.h>
-	<string.h>
-
